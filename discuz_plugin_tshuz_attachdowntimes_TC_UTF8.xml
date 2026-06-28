@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+	<item id="Title"><![CDATA[Discuz! Plugin]]></item>
+	<item id="Version"><![CDATA[X3,X3.1,X3.2,X3.3,X3.4,X3.5,L1.0,F1.0]]></item>
+	<item id="Time"><![CDATA[2018-11-14 13:09]]></item>
+	<item id="From"><![CDATA[科站網 (https://www.discuzab.com/)]]></item>
+	<item id="Data">
+		<item id="plugin">
+			<item id="available"><![CDATA[1]]></item>
+			<item id="adminid"><![CDATA[0]]></item>
+			<item id="name"><![CDATA[附件下載次數限制]]></item>
+			<item id="identifier"><![CDATA[tshuz_attachdowntimes]]></item>
+			<item id="description"><![CDATA[]]></item>
+			<item id="datatables"><![CDATA[]]></item>
+			<item id="directory"><![CDATA[tshuz_attachdowntimes/]]></item>
+			<item id="copyright"><![CDATA[科站網 www.discuzab.com]]></item>
+			<item id="version"><![CDATA[2.1]]></item>
+			<item id="__modules">
+				<item id="0">
+					<item id="name"><![CDATA[mobile]]></item>
+					<item id="param"><![CDATA[]]></item>
+					<item id="menu"><![CDATA[]]></item>
+					<item id="url"><![CDATA[]]></item>
+					<item id="type"><![CDATA[28]]></item>
+					<item id="adminid"><![CDATA[0]]></item>
+					<item id="displayorder"><![CDATA[0]]></item>
+					<item id="navtitle"><![CDATA[]]></item>
+					<item id="navicon"><![CDATA[]]></item>
+					<item id="navsubname"><![CDATA[]]></item>
+					<item id="navsuburl"><![CDATA[]]></item>
+				</item>
+				<item id="1">
+					<item id="name"><![CDATA[hook]]></item>
+					<item id="param"><![CDATA[]]></item>
+					<item id="menu"><![CDATA[]]></item>
+					<item id="url"><![CDATA[]]></item>
+					<item id="type"><![CDATA[11]]></item>
+					<item id="adminid"><![CDATA[0]]></item>
+					<item id="displayorder"><![CDATA[0]]></item>
+					<item id="navtitle"><![CDATA[]]></item>
+					<item id="navicon"><![CDATA[]]></item>
+					<item id="navsubname"><![CDATA[]]></item>
+					<item id="navsuburl"><![CDATA[]]></item>
+				</item>
+				<item id="2">
+					<item id="name"><![CDATA[logs]]></item>
+					<item id="param"><![CDATA[]]></item>
+					<item id="menu"><![CDATA[下載記錄]]></item>
+					<item id="url"><![CDATA[]]></item>
+					<item id="type"><![CDATA[3]]></item>
+					<item id="adminid"><![CDATA[0]]></item>
+					<item id="displayorder"><![CDATA[1]]></item>
+					<item id="navtitle"><![CDATA[]]></item>
+					<item id="navicon"><![CDATA[]]></item>
+					<item id="navsubname"><![CDATA[]]></item>
+					<item id="navsuburl"><![CDATA[]]></item>
+				</item>
+				<item id="3">
+					<item id="name"><![CDATA[tshuz_buyattach]]></item>
+					<item id="param"><![CDATA[]]></item>
+					<item id="menu"><![CDATA[附件購買有傚期]]></item>
+					<item id="url"><![CDATA[]]></item>
+					<item id="type"><![CDATA[3]]></item>
+					<item id="adminid"><![CDATA[0]]></item>
+					<item id="displayorder"><![CDATA[2]]></item>
+					<item id="navtitle"><![CDATA[]]></item>
+					<item id="navicon"><![CDATA[]]></item>
+					<item id="navsubname"><![CDATA[]]></item>
+					<item id="navsuburl"><![CDATA[]]></item>
+				</item>
+				<item id="4">
+					<item id="name"><![CDATA[tshuz_batchdownload]]></item>
+					<item id="param"><![CDATA[]]></item>
+					<item id="menu"><![CDATA[批量下載附件]]></item>
+					<item id="url"><![CDATA[]]></item>
+					<item id="type"><![CDATA[3]]></item>
+					<item id="adminid"><![CDATA[0]]></item>
+					<item id="displayorder"><![CDATA[3]]></item>
+					<item id="navtitle"><![CDATA[]]></item>
+					<item id="navicon"><![CDATA[]]></item>
+					<item id="navsubname"><![CDATA[]]></item>
+					<item id="navsuburl"><![CDATA[]]></item>
+				</item>
+				<item id="5">
+					<item id="name"><![CDATA[tshuz_h5upload]]></item>
+					<item id="param"><![CDATA[]]></item>
+					<item id="menu"><![CDATA[H5上傳圖片上傳附件]]></item>
+					<item id="url"><![CDATA[]]></item>
+					<item id="type"><![CDATA[3]]></item>
+					<item id="adminid"><![CDATA[0]]></item>
+					<item id="displayorder"><![CDATA[4]]></item>
+					<item id="navtitle"><![CDATA[]]></item>
+					<item id="navicon"><![CDATA[]]></item>
+					<item id="navsubname"><![CDATA[]]></item>
+					<item id="navsuburl"><![CDATA[]]></item>
+				</item>
+				<item id="6">
+					<item id="name"><![CDATA[addons]]></item>
+					<item id="param"><![CDATA[]]></item>
+					<item id="menu"><![CDATA[<style>@keyframes rans {from{backgroud-position: 0 0;}to{background-position: 2000px 0;}}</style> <font style="background: -webkit-linear-gradient(18deg, #3300CC, #660099, #990066, #CC0033, #FF9999, #FF4400, #3300CC); 	background: -moz-linear-gradient(18deg, #3300CC, #660099, #990066, #CC0033, #FF9999, #FF4400, #3300CC); 	background: -ms-linear-gradient(18deg, #3300CC, #660099, #990066, #CC0033, #FF9999, #FF4400, #3300CC);animation: rans 18s linear infinite;-webkit-background-clip: text;color: transparent;">获取更多DisM!插件</font>]]></item>
+					<item id="url"><![CDATA[]]></item>
+					<item id="type"><![CDATA[3]]></item>
+					<item id="adminid"><![CDATA[0]]></item>
+					<item id="displayorder"><![CDATA[9]]></item>
+					<item id="navtitle"><![CDATA[]]></item>
+					<item id="navicon"><![CDATA[]]></item>
+					<item id="navsubname"><![CDATA[]]></item>
+					<item id="navsuburl"><![CDATA[]]></item>
+				</item>
+			</item>
+		</item>
+		<item id="version"><![CDATA[X3,X3.1,X3.2,X3.3,X3.4,X3.5,L1.0,F1.0]]></item>
+		<item id="var">
+			<item id="0">
+				<item id="displayorder"><![CDATA[0]]></item>
+				<item id="title"><![CDATA[啓用版塊]]></item>
+				<item id="description"><![CDATA[]]></item>
+				<item id="variable"><![CDATA[forums]]></item>
+				<item id="type"><![CDATA[forums]]></item>
+				<item id="extra"><![CDATA[]]></item>
+				<item id="__value">
+					<item id="0"><![CDATA[]]></item>
+					<item id="1"><![CDATA[2]]></item>
+					<item id="2"><![CDATA[36]]></item>
+					<item id="3"><![CDATA[38]]></item>
+					<item id="4"><![CDATA[40]]></item>
+					<item id="5"><![CDATA[39]]></item>
+					<item id="6"><![CDATA[42]]></item>
+					<item id="7"><![CDATA[41]]></item>
+				</item>
+			</item>
+			<item id="1">
+				<item id="displayorder"><![CDATA[1]]></item>
+				<item id="title"><![CDATA[每日下載次數]]></item>
+				<item id="description"><![CDATA[請填寫數字，0爲不限制]]></item>
+				<item id="variable"><![CDATA[groups]]></item>
+				<item id="type"><![CDATA[group_text]]></item>
+				<item id="extra"><![CDATA[]]></item>
+				<item id="__value">
+					<item id="1"><![CDATA[1]]></item>
+					<item id="11"><![CDATA[4]]></item>
+				</item>
+			</item>
+			<item id="2">
+				<item id="displayorder"><![CDATA[2]]></item>
+				<item id="title"><![CDATA[超過次數限制提示]]></item>
+				<item id="description"><![CDATA[支持簡單的文本HTML代碼，限制次數使用{max}替代]]></item>
+				<item id="variable"><![CDATA[tip]]></item>
+				<item id="type"><![CDATA[textarea]]></item>
+				<item id="value"><![CDATA[您所在的用戶組每天限制下載附件<font color=red>{max}</font>次，如需更多次數，請陞級爲<font color=red>VIP用戶</font>]]></item>
+				<item id="extra"><![CDATA[]]></item>
+			</item>
+			<item id="3">
+				<item id="displayorder"><![CDATA[3]]></item>
+				<item id="title"><![CDATA[防誤刷限制]]></item>
+				<item id="description"><![CDATA[同一附件一定秒數內不計入次數，防止用戶誤刷；最低爲3秒]]></item>
+				<item id="variable"><![CDATA[second]]></item>
+				<item id="type"><![CDATA[number]]></item>
+				<item id="value"><![CDATA[3]]></item>
+				<item id="extra"><![CDATA[]]></item>
+			</item>
+			<item id="4">
+				<item id="displayorder"><![CDATA[4]]></item>
+				<item id="title"><![CDATA[過濾附件]]></item>
+				<item id="description"><![CDATA[]]></item>
+				<item id="variable"><![CDATA[filter]]></item>
+				<item id="type"><![CDATA[selects]]></item>
+				<item id="extra"><![CDATA[1=圖片
+-1=圖片類型附件]]></item>
+				<item id="__value">
+					<item id="0"><![CDATA[1]]></item>
+					<item id="1"><![CDATA[-1]]></item>
+				</item>
+			</item>
+		</item>
+		<item id="language">
+			<item id="scriptlang">
+				<item id="P01YyJ"><![CDATA[下載記錄]]></item>
+				<item id="Ha1Yn6"><![CDATA[用戶]]></item>
+				<item id="hZ1zZm"><![CDATA[主題ID]]></item>
+				<item id="I7eEY0"><![CDATA[附件]]></item>
+				<item id="cNbbNa"><![CDATA[下載時間]]></item>
+				<item id="uflaAY"><![CDATA[下載IP]]></item>
+			</item>
+		</item>
+		<item id="installfile"><![CDATA[install.php]]></item>
+		<item id="uninstallfile"><![CDATA[uninstall.php]]></item>
+		<item id="upgradefile"><![CDATA[upgrade.php]]></item>
+	</item>
+</root>
